@@ -58,7 +58,7 @@ github 에 올리신 후, github pages 구동 하시면 바로 간편히 호스�
 
 ## 작업 위치
 
-- 메인 페이지: /index.html`파일과,`/styles/index.scss` 에서 작업하시면 됩니다.
+- 메인 페이지: `/index.html`파일과,`/styles/index.scss` 에서 작업하시면 됩니다.
 - 프로젝트 페이지: `/projects/{project_name}/index.html`파일, `/projects/{project_name}/scss/index.html`파일 에서 작업하시면 됩니다.
 
 ## 주의사항
