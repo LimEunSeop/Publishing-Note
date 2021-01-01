@@ -1,0 +1,38 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently --kill-others \"live-server\" \"gulp sass:watch\"",
+    "build": "node npm_scripts/build.js",
+    "add": "node npm_scripts/add.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimEunSeop/ghpagetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimEunSeop/ghpagetest/issues"
+  },
+  "homepage": "https://github.com/LimEunSeop/ghpagetest#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "concurrently": "^5.3.0",
+    "find-chrome-version": "^2.1.1",
+    "folder-hash": "^4.0.0",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "live-server": "^1.2.1",
+    "node-sass": "^5.0.0",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10",
+    "selenium-webdriver": "^4.0.0-alpha.8",
+    "sharp": "^0.27.0"
+  }
+}
