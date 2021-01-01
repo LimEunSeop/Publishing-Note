@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LimEunSeop/ghpagetest.git"
+    "url": "git+https://github.com/LimEunSeop/Publishing-Note.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LimEunSeop/ghpagetest/issues"
+    "url": "https://github.com/LimEunSeop/Publishing-Note/issues"
   },
-  "homepage": "https://github.com/LimEunSeop/ghpagetest#readme",
+  "homepage": "https://github.com/LimEunSeop/Publishing-Note#readme",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.5",
     "concurrently": "^5.3.0",
