@@ -20,7 +20,7 @@
 
 ## 준비물
 
-빌드 시, selenium 으로 프로젝트 썸네일을 촬영할 chrome driver 가 필요합니다. 아래 링크에서 해당되는 버전의 드라이버를 다운받아 프로젝트 루트에 추가해 주세요.
+빌드 시, selenium 으로 프로젝트 썸네일을 촬영할 chrome driver 가 필요합니다. 자신의 크롬 브라우저 버전을 확인하고, 아래 링크에서 해당되는 버전의 드라이버를 다운받아 프로젝트 루트에 추가해 주세요.
 
 http://chromedriver.storage.googleapis.com/index.html
 
