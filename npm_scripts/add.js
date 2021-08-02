@@ -21,7 +21,7 @@ fs.mkdirSync(path.join('projects', project_name, 'scss'))
 fs.appendFileSync(
   path.join('projects', project_name, 'index.html'),
   `<!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="UTF-8" />
     <meta
